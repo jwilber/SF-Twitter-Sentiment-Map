@@ -24,7 +24,7 @@ m <- mongo(collection = "tweets")
 # ================================================================
 # Load api credentials
 # ================================================================
-load("my_oauth.Rdata")
+load("../data/my_oauth.Rdata")
 
 # ================================================================
 # Stream tweets: set up streaming parameters
