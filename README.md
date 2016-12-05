@@ -5,7 +5,7 @@
  1. How is the sentiment of tweets distributed about San Francisco?
  2. Are people (who tweet) happier near public parks?
 
-
+***
 
 ### File Structure  
 
