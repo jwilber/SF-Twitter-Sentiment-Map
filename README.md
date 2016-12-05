@@ -1,4 +1,5 @@
 ## SF-Twitter-Sentiment-Map
+***
 
 ### Synopsis
  This project answers the following questions: 
@@ -27,9 +28,13 @@ SF-Twitter-Sentiment-Map/
 +   images/  
 	+ README.md 
   + SF_Tweets_Plot.png
+  
+***
 
 ### Authors  
 * Jared Wilber
+
+***
 
 ### Licenses
 
