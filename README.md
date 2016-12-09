@@ -18,9 +18,14 @@ SF-Twitter-Sentiment-Map/
 +   code/  
 	+ README.md  
 	+ hashtag_script.R
+	+ point_pattern_analysis_script.R
+	+ inverse_distance_weighting_script.R
+	+ make_shapefiles_script.R
+	+ permutation_test_script.R
   + stream_script.R
   + mongo_script.R
   + plot_tweets_script.R
+  + sentiment_script.R
 +   data/  
 	+ README.md  
 	+ datasofar.csv	  
@@ -28,6 +33,11 @@ SF-Twitter-Sentiment-Map/
 +   images/  
 	+ README.md 
   + SF_Tweets_Plot.png
+  + G_function.png
+  + K_function.png
+  + permutation_plot.png
+  + idw_interpolation_plot.png
+  buffer_plot1.png
   
 ***
 
